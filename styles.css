@@ -1,0 +1,38 @@
+h1{
+  margin: 0;
+}
+
+.para{
+  margin: 0;
+}
+
+.bol{
+  font-size: 18px;
+}
+
+.bol1{
+  color: black;
+}
+
+pre{
+  color: #660000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.pre1{
+  color: #0000ff;
+}
+
+code{
+  color: #660000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.unlist{
+  padding-left: 56px;
+}
+
+.olist{
+  padding-left: 18px;
+}
+z
